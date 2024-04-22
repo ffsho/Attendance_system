@@ -1,3 +1,4 @@
+# Импортируем функции и маршруты
 from functions import *
 from routes import *
 
